@@ -22,7 +22,8 @@ you can make.
 
 ### Upcoming Features
 
-- **Database Integration**: Store and retrieve recipes from a database for more dynamic recipe recommendations.
 - **Advanced Matching Algorithm**: Introduce a more complex algorithm that can suggest recipes even if you are missing one or two non-essential ingredients.
 - **User Accounts and Preferences**: Users can create accounts to save their favorite recipes and set dietary restrictions or cuisine preferences.
 
+### Complete
+- **Database Integration**: Store and retrieve recipes from a database for more dynamic recipe recommendations.
